@@ -1,0 +1,14 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 350px 20px 20px 20px;
+  border: 5px solid black;
+}
+
+
+@font-face{
+    font-family: "Ice kingdom";
+    src: url('../html_archives/Ice\ kingdom\ -\ Bold\ -\ Por\ Kustren.ttf');
+}
+

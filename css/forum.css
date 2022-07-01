@@ -1,0 +1,134 @@
+body {
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+
+ul {
+    padding: 0px!important;
+}
+
+.MenuOnF {
+    width: auto;
+    background-color: #121212;
+    height: auto;
+}
+
+.Logo img{
+    max-width: 160px;
+    max-height:190px;
+    width: auto;
+    height: auto;
+    resize: horizontal;
+    float: none;
+}
+
+.MenuF{
+    color:DarkGreen;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+    padding: 1%;
+    margin-left: 0%;
+}
+
+.header{
+    background-color: #ffffff;
+    width: 100%;
+    margin-top: 22px;
+}
+
+.menu {
+    border-bottom: 3px solid #efefef;
+}
+
+.Menu ul li {
+    display: grid;
+    color: #8b8b8b;
+    margin-left: 40%;
+}
+
+.Menu ul li a {
+    color: Green;
+    text-decoration: none;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+}
+
+@font-face{
+    font-family: "Ice kingdom";
+    src: url('../html_archives/Ice\ kingdom\ -\ Bold\ -\ Por\ Kustren.ttf');
+}
+
+.search {
+    text-align: center;
+    width: 25%;
+    float: right;
+}
+
+.search input {
+    background-image: url('../imgs/icone-search.png');
+    background-repeat: no-repeat;
+    background-position: 96%;
+    height: 36px;
+    margin-top: -60px;
+    padding: 12px;
+    width: 190px;
+    border: 1px solid #d6d6d6;
+}
+
+.col-100 {
+    width: 100%;
+    float: right;
+    position: relative;
+}
+
+.Text{
+	color:DarkGreen;
+	text-decoration: none;
+    font-size: 25px;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+    padding: 1%;
+	margin-top: 4%;
+}
+
+.login ui li{
+	display: inline-block;
+    color: #8b8b8b;
+    margin-left: 40%;
+}
+
+.login ui li a{
+    color: Green;
+    text-decoration: none;
+    font-size: 2px;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+}
+
+.cadastro ui li{
+	display: inline-block;
+    color: #8b8b8b;
+    margin-left: 0%;
+}
+
+.cadastro ui li a{
+    color: Green;
+    text-decoration: none;
+    font-size: 2px;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+}
+
+.Button ul li{
+    display: inline-block;
+    margin-left: 43%;
+	padding-top: 50%;
+    
+}
+
+.Button{
+    color:DarkGreen;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: "Ice kingdom", Arial, "Times New Roman";
+}
